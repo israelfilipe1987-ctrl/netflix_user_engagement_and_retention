@@ -9,7 +9,7 @@
 
 ## 💼 Executive Presentation (Apresentação do Projeto)
 > 📄 **Looking for a high-level business summary?** > You can review the complete executive slide deck directly in this repository: 
-> **[Download / View the Project Presentation PDF](./netflix_user_engagement_and_retention.pdf)**
+> **[Download / View the Project Presentation PDF](./presentation/netflix_user_engagement_and_retention.pdf)**
 
 ---
 
