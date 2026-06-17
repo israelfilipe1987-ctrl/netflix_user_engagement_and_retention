@@ -7,6 +7,12 @@
 
 ---
 
+## 💼 Executive Presentation (Apresentação do Projeto)
+> 📄 **Looking for a high-level business summary?** > You can review the complete executive slide deck directly in this repository: 
+> **[Download / View the Project Presentation PDF](./Apresentacao%20de%20Projeto.pdf)**
+
+---
+
 ## 📌 1. Problem Identification
 In the highly competitive streaming industry, customer acquisition costs (CAC) are exponentially rising. Maximizing the **Lifetime Value (LTV)** of active users and minimizing subscription cancellations (**Churn Rate**) has become the primary operational leverage for sustainable corporate growth. 
 
